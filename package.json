@@ -1,0 +1,15 @@
+{
+  "name": "smart-sms-suite-api",
+  "version": "0.1.0",
+  "description": "Smart SMS Suite API Wrapper for Node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arees Siapno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "smart-sms-suite-api"
+  }
+}
