@@ -6,13 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Arees Siapno",
+  "author": "Arees Siapno <areessiapno@gmail.com> (https://github.com/areessiapno)",
   "license": "MIT",
   "dependencies": {
     "request": "^2.69.0"
   },
   "repository": {
     "type": "git",
-    "url": "smart-sms-suite-api"
+    "url": "git+ssh://git@github.com/areessiapno/smart-sms-suite-api.git"
   }
 }
